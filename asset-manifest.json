@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/xibagenerator/static/css/main.ab47fc53.css",
+    "main.js": "/xibagenerator/static/js/main.5e0d42bc.js",
+    "static/media/xi8.png": "/xibagenerator/static/media/xi8.d7e57a0a91c9f475707e.png",
+    "index.html": "/xibagenerator/index.html",
+    "main.ab47fc53.css.map": "/xibagenerator/static/css/main.ab47fc53.css.map",
+    "main.5e0d42bc.js.map": "/xibagenerator/static/js/main.5e0d42bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab47fc53.css",
+    "static/js/main.5e0d42bc.js"
+  ]
+}
