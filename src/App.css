@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.application {
+  background-color: #fcfcf0;
+  min-height: 100vh;
+}
+.main-body {
+  max-width: 50%;
+  margin: auto;
+}
+
+#component-to-print {
+  padding: 5%;
+  border-style: solid;
+}
+h1 {
+  text-align: center;
+}
+form {
+  margin-top: 3vh;
+  margin-bottom: 3vh;
+}
+input {
+  width: 24%;
+  height: 3vh;
+  outline: none;
+  background: none;
+  margin-right: 1vh;
+}
+
+#submitButton {
+  text-align: center;
+  display: inline-block;
+  width: 15%;
+  height: 3vh;
+  margin-left: 5%;
+  font-size: 0.75rem;
+  background: #454545;
+  color: #efefef;
+}
+
+#submitButton:hover {
+  background-color: #7a7a7a;
+}
+
+#saveButton {
+  height: 4vh;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 2vh;
+  font-size: 0.75rem;
+  background: #454545;
+  color: #efefef;
+}
+
+#saveButton:hover {
+  background-color: #7a7a7a;
+}
+
+#slider-component {
+  width: 100%;
+  margin-top: 2vh;
+}
+
+@media (max-width: 500px) {
+  .main-body {
+    max-width: 90%;
+    margin: auto;
+  }
+  input {
+    width: 20%
+  }
+}
+a {
+  display:block;
+  text-align:center;
+}
